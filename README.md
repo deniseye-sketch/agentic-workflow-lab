@@ -20,7 +20,7 @@ Python code is [located here](./app/)
 
 ![Agentic AI Workflow](https://github.com/FullStackWithLawrence/agentic-ai-workflow/blob/main/doc/img/agentic-workflow.png)
 
-## Quick Start
+## Quick Start - using the new feature/docker-debug branch for testing
 
 1. Setup the application
 
